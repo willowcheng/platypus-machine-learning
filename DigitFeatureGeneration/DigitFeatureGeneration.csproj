@@ -32,7 +32,5 @@
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Compile Include="Program.cs" />
-    <Compile Include="Algorithm.cs" />
-    <Compile Include="Constants.cs" />
   </ItemGroup>
 </Project>
